@@ -2,12 +2,6 @@
 
 ## Building a Data-Driven Workforce Visibility Solution with Power BI
 
-<img width="1366" height="768" alt="HR_report" src="https://github.com/user-attachments/assets/fec9e419-56dc-4fb2-a258-fce4aec0d223" />
-
----
-
-# Overview
-
 Workforce data is generated continuously across every organization through attendance systems, leave records, and hybrid work tracking. Yet in many organizations, this data remains fragmented, underutilized, and difficult to interpret operationally.
 
 This project was developed to transform workforce records into a centralized analytics solution capable of improving workforce visibility, operational monitoring, and HR decision-making.
