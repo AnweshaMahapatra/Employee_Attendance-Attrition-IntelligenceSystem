@@ -82,6 +82,8 @@ The objective of this project was to transform raw attendance records into actio
 
 
 
+# 🖼️ Live Dashboard Link
+https://app.powerbi.com/groups/me/reports/86614567-60ba-4320-aedf-22f9d63ed982/ReportSection?experience=power-bi
 
 # 📂 Repository Structure
 
