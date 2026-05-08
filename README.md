@@ -1,4 +1,5 @@
-# Workforce Retention & Attendance Intelligence
+# Employee_Attendance-Attrition-IntelligenceSystem
+
 
 ## 📌 Project Overview
 
@@ -31,9 +32,9 @@ The objective of this project was to transform raw attendance records into actio
 | KPI | Description |
 |------|-------------|
 | Presence % | Overall employee attendance percentage |
-| WFH % | Work-from-home participation rate |
+| WFH % | WFH participation rate |
 | Sick Leave % | Employee sick leave utilization |
-| Attendance Trend | Day-wise workforce attendance analysis |
+| Attendance Trend | Day_wise workforce attendance analysis |
 | Workforce Participation | Employee engagement and availability tracking |
 
 ---
@@ -41,10 +42,10 @@ The objective of this project was to transform raw attendance records into actio
 # 📈 Dashboard Highlights
 
 - Executive workforce overview with key attendance KPIs
-- Work-from-home trend analysis across time periods
+- WFH trend analysis across time periods
 - Attendance behavior monitoring and workforce visibility
 - Interactive filtering for deeper HR insights
-- Business-focused reporting designed for non-technical stakeholders
+- Business_focused reporting designed for non-technical stakeholders
 
 ---
 
@@ -68,29 +69,26 @@ The objective of this project was to transform raw attendance records into actio
 
 # 🛠️ Tools & Technologies
 
-- Power BI
-- Power Query
-- DAX
-- Excel
-- Data Visualization
-- Data Modeling
-
----
+  Power BI
+  Power Query
+  DAX
+  Excel
+  Data Visualization
+  Data Modeling
 
 # 🖼️ Dashboard Preview
+First View
+![First View](https://github.com/AnweshaMahapatra/Project/assets/147628244/4fe77280-e815-43a7-8f45-5b9ce0b534d0)
 
-<img src="Dashboard Screenshots/HR_Report.png" 
-     alt="HR Dashboard Overview." 
-     width="1000"/>
-
----
+Second View
+![Second View ](https://github.com/AnweshaMahapatra/Project/assets/147628244/b584088d-5f54-48e1-b7c4-f91fce0b15cd)
 
 # 📂 Repository Structure
 
 ```plaintext
 📁 Dataset
-📁 Dashboard Screenshots
 📄 HR_Analytics.pbix
+📄Buisness_Questions_and_Insights.md
 📄 README.md
 ```
 
