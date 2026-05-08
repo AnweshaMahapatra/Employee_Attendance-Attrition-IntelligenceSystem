@@ -3,9 +3,9 @@
 Every organization tracks attendance.
 But very few truly understand what workforce data is trying to reveal.
 
-As hybrid work environments became the new normal, organizations gained flexibility — but lost visibility.
+As hybrid work environments became the new normal, organizations gained flexibility but lost visibility.
 
-Managers could see attendance records, leave entries, and work-from-home logs, yet they still struggled to answer critical operational questions:
+Managers could see attendance records, leave entries, and WFH logs, yet they still struggled to answer critical operational questions:
 
 * Why does workforce availability fluctuate across certain days?
 * Are remote work patterns impacting collaboration and productivity?
