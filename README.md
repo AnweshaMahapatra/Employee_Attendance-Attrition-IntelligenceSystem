@@ -79,7 +79,9 @@ The objective of this project was to transform raw attendance records into actio
 
 # 🖼️ Dashboard Preview
 
-![Workforce Retention Dashboard](Dashboard%20Screenshots/dashboard-preview.png)
+<img src="Dashboard Screenshots/HR_Report.png" 
+     alt="HR Dashboard Overview." 
+     width="1000"/>
 
 ---
 
