@@ -3,78 +3,107 @@
 Every organization tracks attendance.
 But very few truly understand what workforce data is trying to reveal.
 
-As hybrid work environments became the new normal, organizations gained flexibility but lost visibility.
+As hybrid work environments became more common, organizations gained flexibility but lost visibility into workforce behavior.
 
-Managers could see attendance records, leave entries, and WFH logs, yet they still struggled to answer critical operational questions:
+Managers could access attendance logs, leave records, and WFH data, yet critical operational questions still remained unanswered:
 
-* Why does workforce availability fluctuate across certain days?
-* Are remote work patterns impacting collaboration and productivity?
-* Which attendance trends require immediate HR attention?
-* How can workforce planning become more proactive instead of reactive?
+* Which days experience reduced workforce availability?
+* Is remote work impacting operational productivity?
+* Are absenteeism patterns affecting workforce efficiency?
+* How can HR teams improve workforce planning proactively?
 
-The data existed.
-The insights did not.
+The organization had data.
+What it lacked was insight.
 
-That challenge became the foundation of this project.
-
-This dashboard was designed to transform raw workforce records into actionable business intelligence capable of helping HR teams better understand employee behavior, workforce participation, and operational efficiency.
+This project was built to bridge that gap by transforming workforce records into an interactive workforce intelligence solution using Power BI.
 
 ---
 
-# 📊 Understanding Workforce Behavior Through Data
+# 📊 Workforce Insights Uncovered Through Data
 
-The analysis revealed that workforce attendance patterns were far from consistent.
+The analysis revealed several important workforce behavior patterns across the organization. 
 
-Certain weekdays repeatedly showed lower employee presence, creating operational variability that could impact:
+## Workforce Presence Trends
 
-* Team collaboration
-* Resource allocation
-* Workforce productivity
-* Staffing efficiency
+The organization maintained an overall employee presence rate of **91.83%**, indicating relatively stable workforce participation across the reporting period. 
 
-At the same time, work-from-home utilization uncovered clear hybrid work behavior trends.
+However, attendance was not equally distributed throughout the week.
 
-Some periods demonstrated significantly higher remote participation, highlighting how workforce flexibility was reshaping operational dynamics inside the organization.
+### Day-wise Presence Analysis
 
-These patterns provided meaningful insights into how employees interacted with hybrid work environments and how organizations could better balance flexibility with efficiency.
+* Monday recorded the highest workforce presence at **93.21%**
+* Friday showed the lowest workforce presence at **90.19%** 
+
+This decline toward the end of the week suggested potential operational variability and changing workforce participation behavior.
 
 ---
 
-# 🔍 Beyond Attendance Tracking
+# 🏠 Hybrid Work Patterns
 
-One of the most important discoveries during the analysis was this:
+One of the most significant insights emerged from the work-from-home analysis.
 
-> Attendance data alone does not tell the full story.
+The organization recorded an overall WFH utilization rate of **10.00%**. 
 
-When attendance behavior was analyzed alongside leave utilization and workforce availability trends, deeper operational insights began to emerge.
+However, remote work participation increased sharply on Fridays.
 
-The dashboard helped identify:
+### Day-wise WFH Insights
 
-* Recurring absenteeism behavior
-* Workforce participation fluctuations
-* Hybrid work utilization trends
-* Workforce availability gaps
-* Operational staffing challenges
+* Friday recorded the highest WFH utilization at **13.01%**
+* Tuesday showed the lowest WFH participation at **8.11%** 
 
-Instead of simply tracking presence, the organization gained the ability to understand workforce behavior from a strategic perspective.
+This pattern highlighted evolving hybrid work behavior and employee preference trends.
 
-This shifted workforce monitoring from reactive reporting to proactive workforce intelligence.
+The data suggested that employees were more likely to work remotely toward the end of the workweek, potentially impacting collaboration dynamics and workforce coordination.
+
+---
+
+# ⚠️ Sick Leave & Workforce Availability
+
+The organization maintained a relatively low overall sick leave rate of **1.10%**, reflecting generally stable workforce health and participation. 
+
+### Sick Leave Trends
+
+* Monday recorded the highest sick leave percentage at **1.62%**
+* Friday showed the lowest sick leave rate at **0.70%** 
+
+Although the overall sick leave percentage remained low, recurring spikes during specific periods highlighted the importance of proactive workforce monitoring.
+
+---
+
+# 🔍 Employee-Level Attendance Variability
+
+The dashboard also uncovered significant differences in attendance behavior across employees.
+
+Examples included:
+
+* Gregory Carr showing a presence rate of **52.38%**
+* Joel Cruz demonstrating a WFH utilization of **45.83%**
+* Zaiden Wheeler recording **100% WFH utilization** during the observed period 
+
+These patterns revealed how workforce participation varied significantly between employees and departments.
+
+Such insights could help HR teams:
+
+* Monitor workforce engagement
+* Improve staffing decisions
+* Identify workforce risks early
+* Support more balanced operational planning
 
 ---
 
 # 🚀 Business Impact of the Analysis
 
-The dashboard demonstrated how workforce analytics can improve organizational visibility and operational decision-making.
+The dashboard transformed raw attendance records into actionable workforce intelligence.
 
-By transforming raw workforce records into meaningful insights, HR teams gained the ability to:
+By centralizing workforce analytics, the organization gained the ability to:
 
 * Improve workforce planning
+* Monitor hybrid work behavior
+* Track workforce participation trends
 * Optimize staffing allocation
-* Monitor workforce participation trends
-* Support employee engagement initiatives
-* Enhance operational preparedness
+* Enhance operational visibility
 
-The project also highlighted how workforce intelligence can support long-term operational efficiency within modern hybrid workplaces.
+Rather than relying on static attendance tracking, the dashboard enabled more proactive workforce management and data-driven HR decision-making.
 
 ---
 
@@ -82,25 +111,25 @@ The project also highlighted how workforce intelligence can support long-term op
 
 ## Improve Workforce Planning
 
-Leverage workforce availability trends to optimize staffing schedules during low-capacity periods.
+Use attendance trends to optimize staffing schedules during lower workforce availability periods.
 
 ---
 
-## Strengthen Hybrid Work Monitoring
+## Strengthen Hybrid Work Coordination
 
-Track work-from-home behavior to improve workforce coordination and operational efficiency.
+Monitor Friday WFH spikes to improve collaboration planning and operational continuity.
 
 ---
 
-## Monitor Absenteeism Proactively
+## Monitor Workforce Risks Early
 
-Identify recurring leave and absenteeism patterns early to improve workforce stability and employee engagement.
+Track recurring absenteeism and attendance variability proactively to support employee engagement initiatives.
 
 ---
 
 ## Build a Data-Driven HR Culture
 
-Encourage HR teams to use workforce analytics for strategic workforce management and operational planning.
+Encourage HR teams to leverage workforce analytics for strategic workforce management and operational planning.
 
 ---
 
@@ -108,23 +137,11 @@ Encourage HR teams to use workforce analytics for strategic workforce management
 
 This project demonstrates how workforce data can evolve from simple attendance tracking into a strategic business intelligence solution.
 
-Rather than focusing only on visualization, the dashboard emphasizes:
+The dashboard goes beyond visualization by combining:
 
+* Workforce analytics
+* Operational intelligence
 * Business storytelling
-* Workforce intelligence
-* Operational analytics
 * Data-driven decision-making
 
-The final solution provides a centralized workforce analytics experience that helps organizations better understand employee behavior, workforce trends, and operational efficiency in modern hybrid work environments.
-
-
-
-
-
-
-
-
-
-
-
-
+The final solution provides HR teams and business leaders with a centralized workforce intelligence platform capable of improving workforce visibility, operational efficiency, and long-term workforce planning in modern hybrid work environments.
