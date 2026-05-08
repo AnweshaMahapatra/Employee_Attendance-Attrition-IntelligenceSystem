@@ -77,11 +77,11 @@ The objective of this project was to transform raw attendance records into actio
   Data Modeling
 
 # 🖼️ Dashboard Preview
-First View
-![First View](https://github.com/AnweshaMahapatra/Project/assets/147628244/4fe77280-e815-43a7-8f45-5b9ce0b534d0)
 
-Second View
-![Second View ](https://github.com/AnweshaMahapatra/Project/assets/147628244/b584088d-5f54-48e1-b7c4-f91fce0b15cd)
+<img width="1366" height="768" alt="HR_report" src="https://github.com/user-attachments/assets/fec9e419-56dc-4fb2-a258-fce4aec0d223" />
+
+
+
 
 # 📂 Repository Structure
 
